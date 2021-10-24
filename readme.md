@@ -15,4 +15,3 @@ Open >> File
 >> Settings(Ctrl+Alt+S)
 >> Project: > Python Interpreter
 >> Right side of the Browse path select location of existing venv path
->> Apply and OK.
